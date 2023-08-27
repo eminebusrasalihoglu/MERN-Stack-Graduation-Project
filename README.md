@@ -45,7 +45,7 @@ Before you begin, ensure you have met the following requirements:
 
 - **Node.js** installed on your machine (preferably version 16.10.0).
 - A code editor of your choice (e.g., **Visual Studio Code**). 
-- **MongoDB **configuration = You must have an MongoDB account. If you don't have one, you can sign up for a free account at MongoDB Atlas. Create a database cluster within your MongoDB Atlas account. This cluster will serve as the backend data store for your MERN application.Obtain the connection string for your MongoDB Atlas cluster. This connection string includes authentication credentials and details about your cluster. You'll need to configure your Node.js backend to use this connection string to connect to the database.
+- **MongoDB**configuration = You must have an MongoDB account. If you don't have one, you can sign up for a free account at MongoDB Atlas. Create a database cluster within your MongoDB Atlas account. This cluster will serve as the backend data store for your MERN application.Obtain the connection string for your MongoDB Atlas cluster. This connection string includes authentication credentials and details about your cluster. You'll need to configure your Node.js backend to use this connection string to connect to the database.
 
 ## Getting Started
 1.  Clone the repository to your local machine:
@@ -75,7 +75,10 @@ npm i
 7. Configure the database
 You must change db.js and .env file
 
-8. Start the backend
+8. Create folders for uploads
+academicUploads reportUploads attendanceUploads registerUploads
+
+9. Start the backend
 ```shell
 npm start
 ```
