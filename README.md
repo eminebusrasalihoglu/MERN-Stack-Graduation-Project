@@ -75,8 +75,7 @@ npm i
 7. Configure the database
 You must change db.js and .env file
 
-8. Create folders for uploads
-academicUploads reportUploads attendanceUploads registerUploads
+8. Create folders for uploads -> academicUploads reportUploads attendanceUploads registerUploads
 
 9. Start the backend
 ```shell
@@ -110,5 +109,21 @@ mern-stack-internship/ <br>
 ├── README.md      # Project README file  <br>
 
 ## Usage
-coming soon
-###### Happy coding ✨
+![login](https://github.com/eminebusrasalihoglu/MERN-Stack-Graduation-Project/assets/58669314/9b33a55b-7c2b-4704-8f1c-3d42624c08a5)
+![createclass](https://github.com/eminebusrasalihoglu/MERN-Stack-Graduation-Project/assets/58669314/d78b43f1-9286-4b4e-8bd5-60ef4fd56b2c)
+![viewclass](https://github.com/eminebusrasalihoglu/MERN-Stack-Graduation-Project/assets/58669314/254e7283-07ac-4dd2-9b86-93ba77ba0c48)
+![viewclass2](https://github.com/eminebusrasalihoglu/MERN-Stack-Graduation-Project/assets/58669314/510646bd-447a-4077-8797-41091bee4dec)
+![registration](https://github.com/eminebusrasalihoglu/MERN-Stack-Graduation-Project/assets/58669314/812b9519-71db-4ee3-80a8-a7981f1dcd5f)
+![appint](https://github.com/eminebusrasalihoglu/MERN-Stack-Graduation-Project/assets/58669314/fbb4e20e-f688-45c2-91f8-26a1e1c54ee9)
+![appacc](https://github.com/eminebusrasalihoglu/MERN-Stack-Graduation-Project/assets/58669314/27e29280-9f0a-415e-96c9-b429b823242c)
+![profile](https://github.com/eminebusrasalihoglu/MERN-Stack-Graduation-Project/assets/58669314/a4ba7c31-eb36-4b81-82a1-751ed453b987)
+![upload](https://github.com/eminebusrasalihoglu/MERN-Stack-Graduation-Project/assets/58669314/60576d5c-29a3-4bd1-95aa-10ea10d6fea3)
+![upload2](https://github.com/eminebusrasalihoglu/MERN-Stack-Graduation-Project/assets/58669314/45c7c7cf-87b8-401c-9113-8a77faba27b1)
+![academicstudentlist](https://github.com/eminebusrasalihoglu/MERN-Stack-Graduation-Project/assets/58669314/bb65bfdb-d6bd-4f47-9d39-14df8a547690)
+![homepage](https://github.com/eminebusrasalihoglu/MERN-Stack-Graduation-Project/assets/58669314/945bc55d-43ae-46cd-9350-bd4ea5d4497d)
+![company](https://github.com/eminebusrasalihoglu/MERN-Stack-Graduation-Project/assets/58669314/918b9236-2eb3-40d4-a166-6ff0f561cf5f)
+![survey1](https://github.com/eminebusrasalihoglu/MERN-Stack-Graduation-Project/assets/58669314/33b7fdd4-363c-4c65-aab4-4d335be3f9ae)
+![survey2](https://github.com/eminebusrasalihoglu/MERN-Stack-Graduation-Project/assets/58669314/e7ca5b52-ade2-447a-be2c-633bdcf86084)
+
+###### Thanks to my teammate Şevval 👩‍🚀👩‍🚀
+###### Happy coding 🚀✨
